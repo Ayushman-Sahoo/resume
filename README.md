@@ -1,2 +1,4 @@
 # resume
-My professional resume – Computer Science Engineering
+# Ayushman Sahoo – Resume
+This repository contains my professional resume for job and internship applications.
+
